@@ -35,7 +35,8 @@ The code is written in Python, so make sure to have the latest version of python
 ![image](https://github.com/nikhilsukhdev/Sales-Data-Analysis/assets/46552468/c3a5f254-ec5b-4c15-8ded-176ba4e4c78c)
 
 **4. Visualizing regional sales**
-![image](https://github.com/nikhilsukhdev/Sales-Data-Analysis/assets/46552468/7c1660d2-50d2-4cba-a439-5bbdfb8ec961)
+![image](https://github.com/nikhilsukhdev/Sales-Data-Analysis/assets/46552468/4fe46070-3b29-4840-924b-1b27e4faf614)
+
 
 
 
