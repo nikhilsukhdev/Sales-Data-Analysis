@@ -17,8 +17,8 @@ This repository holds an end-to-end Data Analytics project wherein sales data pe
 
 The code is written in Python, so make sure to have the latest version of python installed. For scripting, either an IDE or an online platform such as Jupyter or Google Colab could be used.
 
-All the above mentioned libraries could be installed using 'pip install library-name' on CMD or terminal for Windows or MAC users respectively.
+### Contributor
 
-Note: It is important to have Python installed before you run the pip command as pip is a package manager that comes pre-installed with Python.
+Dr. Nikhil Sukhdev
 
 
