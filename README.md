@@ -27,5 +27,10 @@ The code is written in Python, so make sure to have the latest version of python
 ![image](https://github.com/nikhilsukhdev/Sales-Data-Analysis/assets/46552468/11316232-4bd8-43bc-b8df-9fc787199cb5)
 <br>
 
+**2. Overview of Sales across regions and months**
+![image](https://github.com/nikhilsukhdev/Sales-Data-Analysis/assets/46552468/04492416-f23a-465e-8c89-0b5d68d74847)
+
+
+
 
 
