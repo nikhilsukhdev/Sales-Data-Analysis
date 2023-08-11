@@ -2,7 +2,7 @@
 A repo containing a project to analyze sales of an electronics store
 
 ### Introduction
-This repository holds an end-to-end Data Analytics project wherein sales data pertaining to a . The repo contanisn the following items: 
+This repository holds an end-to-end Data Analytics project wherein sales data pertaining to a leading electronics store has been extensively analyzed . The repo contanisn the following items: 
 **1. Dataset
 **2. EDA notebook
 **3. Report containing the insights after performing EDA
