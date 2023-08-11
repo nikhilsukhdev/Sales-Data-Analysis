@@ -1,7 +1,12 @@
-# Sales-Data-Analysis
+# Electronics Sales Data Analysis
 A repo containing a project to analyze sales of an electronics store
 
-An extensive Exploratory Data Analysis has been performed to unearth several previously unkown inisghts pertaining to sales data of a leading electronics store.
+### Introduction
+This repository holds an end-to-end Data Analytics project wherein sales data pertaining to a . The repo contanisn the following items: 
+**1. Dataset
+**2. EDA notebook
+**3. Report containing the insights after performing EDA
+**4. Power BI report 
 
 Software requirements:
 
