@@ -41,7 +41,9 @@ The code is written in Python, so make sure to have the latest version of python
 ![image](https://github.com/nikhilsukhdev/Sales-Data-Analysis/assets/46552468/b27c312d-02e5-42cf-ba8e-5483f255d054)
 
 
+#### Reach out on: 
 
+[Linkedin](https://linkedin.com/in/nikhil-sukhdev-882395183) 
 
 
 
