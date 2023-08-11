@@ -17,3 +17,6 @@ Seaborn
 All the above mentioned libraries could be installed using 'pip install library-name' on CMD or terminal for Windows or MAC users respectively.
 
 Note: It is important to have Python installed before you run the pip command as pip is a package manager that comes pre-installed with Python.
+
+![image](https://github.com/nikhilsukhdev/Sales-Data-Analysis/assets/46552468/6d27f675-bc50-4cf0-9f08-b4fa992124bf)
+
