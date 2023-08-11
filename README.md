@@ -19,6 +19,6 @@ The code is written in Python, so make sure to have the latest version of python
 
 ### Contributor
 
-Nikhil Sukhdev
+[Nikhil Sukhdev](https://github.com/nikhilsukhdev)
 
 
