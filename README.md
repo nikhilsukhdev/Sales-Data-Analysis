@@ -25,6 +25,7 @@ The code is written in Python, so make sure to have the latest version of python
 
 **1. Home Page with KPIs and buttons**
 ![image](https://github.com/nikhilsukhdev/Sales-Data-Analysis/assets/46552468/11316232-4bd8-43bc-b8df-9fc787199cb5)
+<br>
 
 
 
