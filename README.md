@@ -2,11 +2,15 @@
 A repo containing a project to analyze sales of an electronics store
 
 ### Introduction
-This repository holds an end-to-end Data Analytics project wherein sales data pertaining to a leading electronics store has been extensively analyzed . The repo contanisn the following items: 
-### Preview
-**1. Home Page with KPIs and buttons**
+This repository holds an end-to-end Data Analytics project wherein sales data pertaining to a leading electronics store has been extensively analyzed . 
+### The repo contanisn the following items: 
+**1. Dataset**
 <br>
-**2. Basic data of HK markets**
+**2. EDA Notebook**
+<br>
+**3. Report containing EDA insights**
+<br>
+**4. Power BI report**
 <br>
 
 Software requirements:
