@@ -1,0 +1,23 @@
+1. Details About thwe products ordered in a given order
+1. Number of orders by time of day
+1. Number of orders by date
+1. Sales By Month
+1. Number of orders by month
+1. Relationship between sales and quantity ordered
+2. Sales by Region
+3. Top/Bottom 5 proucts sold by sales
+3. Top/Bottom 5 products by cost
+3. Five most and least ordered products
+
+In monthly sales analysis tab: - 
+1. create a chart which counts number of orders (order ID) per month
+2. Top5 monthly sold products (Ribbon Chart)
+3. Bottom 5 monthly sold products (Ribbon Chart)
+4. Sales By Month (Area Chart)
+
+Regional Sales: 
+1. CityState (Largest and Least Sales; 2 cards)
+2. Map
+3. Top 5 products sold by region
+4. Bottom 5 products sold by city/state
+
