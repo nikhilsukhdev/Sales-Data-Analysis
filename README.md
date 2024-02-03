@@ -2,7 +2,7 @@
 A repo containing a project to analyze sales of an electronics store
 
 ### Introduction
-This repository holds an end-to-end Data Analytics project, analyzing and visualizing sales data pertaining to a leading electronics store. The dataset has 186850 records comprising of sales from January to December. However, for the sake of brevity and computational efficiency, 55082 records (Jan-April Sales) have been used.
+This repository holds an end-to-end Data Analytics project, analyzing and visualizing sales data pertaining to a leading electronics store.
 ### The repo contanis the following items: 
 **1. Dataset**
 <br>
